@@ -2,19 +2,19 @@ package org.emp;
 
 public class Employee {
 	private void empId() {
-		System.out.println("My id is :1234");
+		System.out.println("My id is ");
 	}
 	private void empName() {
-		System.out.println("kodamkkam");
+		System.out.println("koda");
 	}
 	private void empDob() {
-		System.out.println("29/05/1989");
+		System.out.println("29");
 	}
 	private void empPhone() {
-		System.out.println("90472716");
+		System.out.println("90");
 	}
 	private void empEmail() {
-		System.out.println("mega@gmail.com");
+		System.out.println("mega");
 	}
 	private void empAddress() {
 		System.out.println("chennai");
